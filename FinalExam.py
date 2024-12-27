@@ -9,7 +9,7 @@ from tensorflow.keras.models import load_model
 model = load_model('ann_model.h5')
 
 # Load the scaler for preprocessing
-scaler = joblib.load('scaler (15).pkl')
+scaler = joblib.load('scaler (17).pkl')
 
 # Load feature and target columns
 with open('columns.pkl', 'rb') as f:
