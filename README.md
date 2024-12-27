@@ -1,4 +1,4 @@
-# Biomass-based Activated Carbon (BAC) Capacitance and Rate Capability Prediction
+# Biomass-based Activated Carbon (BAC) Capacitance and Rate Capability Prediction ♻️🌾🔥🌱🪵
 
 ## Overview
 
